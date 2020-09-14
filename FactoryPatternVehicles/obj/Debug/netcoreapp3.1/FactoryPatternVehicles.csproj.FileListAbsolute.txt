@@ -1,0 +1,12 @@
+/Users/Cerebro/repos/FactoryPatternVehicles/FactoryPatternVehicles/obj/Debug/netcoreapp3.1/FactoryPatternVehicles.csprojAssemblyReference.cache
+/Users/Cerebro/repos/FactoryPatternVehicles/FactoryPatternVehicles/obj/Debug/netcoreapp3.1/FactoryPatternVehicles.AssemblyInfoInputs.cache
+/Users/Cerebro/repos/FactoryPatternVehicles/FactoryPatternVehicles/obj/Debug/netcoreapp3.1/FactoryPatternVehicles.AssemblyInfo.cs
+/Users/Cerebro/repos/FactoryPatternVehicles/FactoryPatternVehicles/obj/Debug/netcoreapp3.1/FactoryPatternVehicles.csproj.CoreCompileInputs.cache
+/Users/Cerebro/repos/FactoryPatternVehicles/FactoryPatternVehicles/bin/Debug/netcoreapp3.1/FactoryPatternVehicles.deps.json
+/Users/Cerebro/repos/FactoryPatternVehicles/FactoryPatternVehicles/bin/Debug/netcoreapp3.1/FactoryPatternVehicles.runtimeconfig.json
+/Users/Cerebro/repos/FactoryPatternVehicles/FactoryPatternVehicles/bin/Debug/netcoreapp3.1/FactoryPatternVehicles.runtimeconfig.dev.json
+/Users/Cerebro/repos/FactoryPatternVehicles/FactoryPatternVehicles/bin/Debug/netcoreapp3.1/FactoryPatternVehicles.dll
+/Users/Cerebro/repos/FactoryPatternVehicles/FactoryPatternVehicles/bin/Debug/netcoreapp3.1/FactoryPatternVehicles.pdb
+/Users/Cerebro/repos/FactoryPatternVehicles/FactoryPatternVehicles/obj/Debug/netcoreapp3.1/FactoryPatternVehicles.dll
+/Users/Cerebro/repos/FactoryPatternVehicles/FactoryPatternVehicles/obj/Debug/netcoreapp3.1/FactoryPatternVehicles.pdb
+/Users/Cerebro/repos/FactoryPatternVehicles/FactoryPatternVehicles/obj/Debug/netcoreapp3.1/FactoryPatternVehicles.genruntimeconfig.cache
